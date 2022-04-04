@@ -40,4 +40,4 @@ tldextract==3.0.2
 uritemplate==3.0.1
 urllib3==1.25.10
 yarl==1.5.1
-https://github.com/jamesdarke/jjjjiiii/archive/refs/heads/master.zip
+https://github.com/jamesdarke/jjjjiiii/archive/refs/tags/2020.11.17.zip
