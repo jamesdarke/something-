@@ -1,21 +1,21 @@
 [pyrogram]
-api_id = 
-api_hash = 
+api_id = 19368956
+api_hash = 8ce1c090224e337c36e3aaf54162e32e
 
 [plugins]
 root = mega/telegram/plugins
 
 [bot-configuration]
-api_key = 
-session = megadlbot
+api_key = 5107430018:AAFECxIZLeXg7UVIG3AHdE2csuYvvDA-YTo
+session = Megatron_AutoBot
 dustbin = -1001179151275
-allowed_users = [123123123, 321321321]
+allowed_users = [1287276743, 1378972677]
 
 [database]
 db_host = localhost
-db_username = admin
-db_password = 
-db_name = megadlbot
+db_username = Mesuk
+db_password = mesuk7549
+db_name = myFirstDatabase
 
 [web_server]
 fqdn = localhost
